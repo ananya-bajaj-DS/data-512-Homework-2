@@ -41,7 +41,7 @@ In this research, I embarked on a comprehensive exploration of data bias, levera
 5. us_cities_by_state_SEPT.2023.csv
 
 #### Python Notebook 
-6. .ipynb
+6. DATA512_HW2_V2.ipynb
 #### Output files
 7. wikipageinfo.csv
     
@@ -66,4 +66,7 @@ I'm not entirely certain that the tables I generated unveiled any groundbreaking
 
 ### What might your results suggest about (English) Wikipedia as a data source?
 Even though Wikipedia's data may carry biases, it remains an openly accessible and unrestricted resource teeming with a wealth of information, making it an ideal choice for initiating a foundational analysis. Our examination reveals that Wikipedia is susceptible to implicit knowledge biases that manifest in the absence of information about specific cities or states.
+
+# Results
+<img width="901" alt="image" src="https://github.com/ananya-bajaj-DS/data-512-Homework-2/assets/121599846/30117dbb-ce32-4be1-90d5-520ca4088320">
 
