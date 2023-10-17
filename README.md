@@ -39,11 +39,13 @@ In this research, I embarked on a comprehensive exploration of data bias, levera
 3. NST-EST2022-POP.xlsx
 4. US States by region - US Census Bureau.xlsx
 5. us_cities_by_state_SEPT.2023.csv
+6. ORES_predictions-3.csv
 
 #### Python Notebook 
-6. DATA512_HW2_V2.ipynb
+7. DATA512_HW2_V2.ipynb
+   
 #### Output files
-7. wikipageinfo.csv
+8. wikipageinfo.csv
     
 # Research Implications
 
@@ -69,4 +71,14 @@ Even though Wikipedia's data may carry biases, it remains an openly accessible a
 
 # Results
 <img width="901" alt="image" src="https://github.com/ananya-bajaj-DS/data-512-Homework-2/assets/121599846/30117dbb-ce32-4be1-90d5-520ca4088320">
+<img width="945" alt="image" src="https://github.com/ananya-bajaj-DS/data-512-Homework-2/assets/121599846/d24fd6ef-a3eb-4b9b-b39e-f4ae0b508b51">
+<img width="978" alt="image" src="https://github.com/ananya-bajaj-DS/data-512-Homework-2/assets/121599846/1e60fdac-a823-49b1-a2ee-e48702508bcb">
+<img width="978" alt="image" src="https://github.com/ananya-bajaj-DS/data-512-Homework-2/assets/121599846/351456b5-fc40-479d-aa39-97b2e6d5b78b">
+<img width="1004" alt="image" src="https://github.com/ananya-bajaj-DS/data-512-Homework-2/assets/121599846/016b996c-5d38-433a-90c9-42e975e5f1da">
+<img width="1004" alt="image" src="https://github.com/ananya-bajaj-DS/data-512-Homework-2/assets/121599846/325cec12-addc-4409-bcc8-0efdad6294b9">
+
+
+
+
+
 
