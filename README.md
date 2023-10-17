@@ -19,8 +19,15 @@ In this research, I embarked on a comprehensive exploration of data bias, levera
 
 [Wikimedia Foundations Rest API](https://www.mediawiki.org/wiki/API:REST_API#Terms_and_conditions)
 
-[Creattive Commons Liscence](https://creativecommons.org/licenses/by/4.0/)
+[Creative Commons Liscence](https://creativecommons.org/licenses/by/4.0/)
 
+# Helpful API Documentation
+
+[ORES Wiki](https://www.mediawiki.org/wiki/ORES)
+
+[Wikipedia Content Assesment](https://en.wikipedia.org/wiki/Wikipedia:Content_assessment)
+
+[API info](https://www.mediawiki.org/wiki/API:Info)
 
 # Research Implications
 
