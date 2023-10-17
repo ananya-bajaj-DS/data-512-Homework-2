@@ -40,12 +40,13 @@ In this research, I embarked on a comprehensive exploration of data bias, levera
 4. US States by region - US Census Bureau.xlsx
 5. us_cities_by_state_SEPT.2023.csv
 6. ORES_predictions-3.csv
+7. wp_scored_city_articles_by_state.
 
 #### Python Notebook 
-7. DATA512_HW2_V2.ipynb
+8. DATA512_HW2_V2.ipynb
    
 #### Output files
-8. wikipageinfo.csv
+9. wikipageinfo.csv
     
 # Research Implications
 
