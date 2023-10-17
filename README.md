@@ -29,6 +29,22 @@ In this research, I embarked on a comprehensive exploration of data bias, levera
 
 [API info](https://www.mediawiki.org/wiki/API:Info)
 
+# Files (structure)
+
+#### Git specific
+1. License
+2. Readme.md
+
+#### Data Files
+3. NST-EST2022-POP.xlsx
+4. US States by region - US Census Bureau.xlsx
+5. us_cities_by_state_SEPT.2023.csv
+
+#### Python Notebook 
+6. .ipynb
+#### Output files
+7. wikipageinfo.csv
+    
 # Research Implications
 
 ### What did I learn? 
