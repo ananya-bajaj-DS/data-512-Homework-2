@@ -15,7 +15,7 @@ In this research, I embarked on a comprehensive exploration of data bias, levera
 
 6. ORES Article Scores (Wiki): https://www.mediawiki.org/wiki/ORES, https://www.mediawiki.org/wiki/API:Info
 
-# Liscencing
+# Licensing
 
 [Wikimedia Foundations Rest API](https://www.mediawiki.org/wiki/API:REST_API#Terms_and_conditions)
 
