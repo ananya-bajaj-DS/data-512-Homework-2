@@ -18,7 +18,8 @@ In this research, I embarked on a comprehensive exploration of data bias, levera
 # Liscencing
 
 [Wikimedia Foundations Rest API](https://www.mediawiki.org/wiki/API:REST_API#Terms_and_conditions)
-[Craetive Commons Liscence](https://creativecommons.org/licenses/by/4.0/)
+
+[Creattive Commons Liscence](https://creativecommons.org/licenses/by/4.0/)
 
 
 # Research Implications
