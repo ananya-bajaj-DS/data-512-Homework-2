@@ -1,5 +1,16 @@
 # data-512-Homework-2
 
+# Objective
+In this research, I embarked on a comprehensive exploration of data bias, leveraging Wikipedia articles as our primary dataset. My approach involved collecting data related to Wikipedia articles about a wide range of cities and towns across the United States. These articles were then evaluated for quality using the ORES API. The analysis was multifaceted, encompassing a thorough examination of critical metrics linked to the anticipated article quality. The focus of this investigation extended to identifying states that exhibited the most extensive per capita coverage of articles. The primary aim of this study was to unearth insights into regional patterns of article coverage and the prevalence of top-quality articles within this expansive dataset.
+
+# Sources
+
+1. Csv file us_cities_by_state_SEPT.2023. It contains state, page title and url.
+
+2. Excel file NST-EST2022-POP. This file contains the list of states and the 2022 population estimates for each state.
+
+3. csv file US States by Region - US Census Bureau. It contains regions (Northeast, Midwest etc.), divisions (New England, Middle Atlantic) and states (Connecticut, Vermont)
+
 # Research Implications
 
 ### What did I learn? 
@@ -21,3 +32,4 @@ I'm not entirely certain that the tables I generated unveiled any groundbreaking
 
 ### What might your results suggest about (English) Wikipedia as a data source?
 Even though Wikipedia's data may carry biases, it remains an openly accessible and unrestricted resource teeming with a wealth of information, making it an ideal choice for initiating a foundational analysis. Our examination reveals that Wikipedia is susceptible to implicit knowledge biases that manifest in the absence of information about specific cities or states.
+
