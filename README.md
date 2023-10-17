@@ -14,15 +14,22 @@ In this research, I embarked on a comprehensive exploration of data bias, levera
 5. List of regions in the US (Wikipedia): https://en.wikipedia.org/wiki/List_of_regions_of_the_United_States#Census_Bureau%E2%80%93designated_regions_and_divisions
 
 6. ORES Article Scores (Wiki): https://www.mediawiki.org/wiki/ORES, https://www.mediawiki.org/wiki/API:Info
+
+#Liscencing
+
+[Wikimedia Foundations Rest API](https://www.mediawiki.org/wiki/API:REST_API#Terms_and_conditions)
+[Craetive Commons Liscence](https://creativecommons.org/licenses/by/4.0/)
+
+
 # Research Implications
 
 ### What did I learn? 
 One key insight gleaned from this analysis is that, despite the United States being a technologically advanced nation with a robust economy, there is a noticeable absence of publicly available articles and information about many regions within the country. Instead, there is a distinct inclination toward regions with high population density. This finding prompts further investigation, extending similar analyses to other countries in Europe, Africa, and Asia. It underscores the fact that public data sources like Wikipedia are susceptible to both implicit and explicit biases. In our particular case, the implicit bias is evident in the form of insufficient articles about specific cities and states. Addressing explicit biases, such as those arising from ideological differences, would necessitate more extensive scrutiny.
 
-### What I found... What surprised me? */
+### What I found... What surprised me? 
 As per my examination, South Dakota emerges as the state with the most superior articles published per individual. Notably, South Dakota doesn't belong to New England, the region recognized for generating the highest-quality articles per person. This particular finding took me by surprise. Moreover, South Dakota not only had the largest number of articles per person but also maintained the highest article quality. This is intriguing because, despite their large quantity of articles, they retained their exceptional quality.
 
-### In addition to any reflections you want to share about the process of the assignment? */
+### In addition to any reflections you want to share about the process of the assignment? 
 The process was quite convoluted and it took me a while to figure out how to troubleshoot while running the ORES API and add error proofing codes to it.
 
 ## Answering the questions asked...
