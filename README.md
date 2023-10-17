@@ -5,12 +5,15 @@ In this research, I embarked on a comprehensive exploration of data bias, levera
 
 # Sources
 
-1. Csv file us_cities_by_state_SEPT.2023. It contains state, page title and url.
+1. Csv file us_cities_by_state_SEPT.2023. It contains state, page title and url.- https://en.wikipedia.org/wiki/Category:Lists_of_cities_in_the_United_States_by_state
 
-2. Excel file NST-EST2022-POP. This file contains the list of states and the 2022 population estimates for each state.
+3. Excel file NST-EST2022-POP. This file contains the list of states and the 2022 population estimates for each state.
 
-3. csv file US States by Region - US Census Bureau. It contains regions (Northeast, Midwest etc.), divisions (New England, Middle Atlantic) and states (Connecticut, Vermont)
+4. csv file US States by Region - US Census Bureau. It contains regions (Northeast, Midwest etc.), divisions (New England, Middle Atlantic) and states (Connecticut, Vermont) - https://www.census.gov/data/tables/time-series/demo/popest/2020s-state-total.html
+  
+5. List of regions in the US (Wikipedia): https://en.wikipedia.org/wiki/List_of_regions_of_the_United_States#Census_Bureau%E2%80%93designated_regions_and_divisions
 
+6. ORES Article Scores (Wiki): https://www.mediawiki.org/wiki/ORES, https://www.mediawiki.org/wiki/API:Info
 # Research Implications
 
 ### What did I learn? 
